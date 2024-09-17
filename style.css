@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #1a202c;
+  background-image: url("https://img.freepik.com/free-photo/gradient-blue-abstract-background-smooth-dark-blue-with-black-vignette-studio_1258-53679.jpg?t=st=1726492294~exp=1726495894~hmac=80f524c303951941569a8c6e2c2cb2fad7f7161ae4d989bb2b894535e270c001&w=740");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
